@@ -35,6 +35,9 @@
 + Чтобы создать консольное приложение в MS Visual Studio необходимо его запустить. В окошке нажимаем на "Создание проекта"
 ![](https://github.com/Sergey-Chushev/Lab/blob/master/Экран/1.png?raw=true)
 Рисунок 1. Стартовое окно Visual Studio 2019
++ В меню выбираем пункт "Консольное приложение" и кликаем "Далее"
+![](https://github.com/Sergey-Chushev/Lab/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD/2.png)
+Рисунок 2.  Меню создания проекта
  
 
 
