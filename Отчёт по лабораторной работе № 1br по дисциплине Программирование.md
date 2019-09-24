@@ -33,7 +33,8 @@
 ### Ход работы:
 1. Как создать консольное приложение С++.
 + Чтобы создать консольное приложение в MS Visual Studio необходимо его запустить. В окошке нажимаем на "Создание проекта"
-![] (https://github.com/Sergey-Chushev/Lab/blob/master/Экран/1.png)
+![](https://raw.githubusercontent.com/Starfall-69/Labs/master/1.PNG)
+Рисунок 1. Стартовое окно Visual Studio 2019
  
 
 
